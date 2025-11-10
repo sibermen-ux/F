@@ -20,27 +20,28 @@
         text-shadow: 2px 2px 5px #000;
     }
 
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        padding: 10px;
-        gap: 15px;
-    }
+.container {
+    display: block;
+    padding: 10px;
+}
 
-    .card {
-        background: rgba(255, 255, 255, 0.15);
-        border-radius: 20px;
-        padding: 15px;
-        width: 90%;
-        max-width: 300px;
-        min-height: 100px;
-        box-shadow: 0 6px 12px rgba(0,0,0,0.2);
-        position: relative;
-        overflow: hidden;
-        transition: transform 0.3s, box-shadow 0.3s;
-        backdrop-filter: blur(8px);
-        word-wrap: break-word;
+.card {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px auto;
+    width: 95%;
+    max-width: 400px;
+    min-height: 100px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+    word-wrap: break-word;
+}
+
+
+
+
+
     }
 
     .card:hover {
