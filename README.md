@@ -1,4 +1,3 @@
-hayatımmmm
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
@@ -136,7 +135,4 @@ hayatımmmm
     }
 
     setInterval(createEmoji, 500);
-</script>
-
-</body>
-</html>
+</script
