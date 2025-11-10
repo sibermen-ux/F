@@ -73,7 +73,6 @@ hayatımmmm
     <div class="card"><p><span class="heart">❤️</span>Seninle her an bir şiir... 🌸💋🫶</p></div>
     <div class="card"><p><span class="heart">💖</span>Kalbim sadece senin melodinle çarpıyor. 🌹🫶</p></div>
     <div class="card"><p><span class="heart">💌</span>Gözlerin bir yıldız, ruhum onun ışığında. 🌟🫶</p></div>
-</div> <div class="card"> 
 <div class="card"><p><span class="heart">💌</span>Gözlerin bir yıldız, ruhum onun ışığında. 🌟</p></div>
 <div class="card"><p><span class="heart">💌</span>Sesin bir melodi, kalbim onun ritminde dans eder. 🎶</p></div>
 <div class="card"><p><span class="heart">💌</span>Gülüşün bahar gibi, içimde çiçekler açtırır. 🌸</p></div>
