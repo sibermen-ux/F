@@ -23,7 +23,7 @@
 .container {
     display: block;
     padding: 10px;
-}
+
 
 .card {
     background: rgba(255, 255, 255, 0.2);
@@ -39,7 +39,7 @@
 }
  
 
-    .card:hover {
+.card:hover {
         transform: scale(1.03);
         box-shadow: 0 10px 18px rgba(0,0,0,0.3);
     }
